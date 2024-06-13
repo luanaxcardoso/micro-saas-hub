@@ -1,5 +1,3 @@
-Em construção...
-
 Instalação de Pacotes
 
 1- Inicie um projeto Next.js com o comando:
